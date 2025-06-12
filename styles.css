@@ -126,3 +126,19 @@ nav
     overflow: hidden;
     margin-right: 75px;
 }
+
+#resume-button
+{
+    margin: 15px;
+    background-color: black;
+    color: whitesmoke;
+    font-weight: bolder;
+    font-family: monospace;
+    padding: 10px 20px;
+    border-radius: 2rem;
+}
+
+#resume-button:hover
+{
+    background-color: rgb(40, 40, 40);
+}
